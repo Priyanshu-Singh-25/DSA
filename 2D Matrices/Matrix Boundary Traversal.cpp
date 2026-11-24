@@ -16,7 +16,7 @@
       Constraints:
       
       1 ≤ mat.size(), mat[i].size() ≤ 103
-      0 ≤ mat[i][j] ≤ 103
+      0 ≤ mat[i][j] ≤  103
         */
 
 //Solution
